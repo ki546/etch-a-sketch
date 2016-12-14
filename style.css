@@ -1,0 +1,28 @@
+#container {
+	text-align: center;
+	height: 460px;
+	width: 460px;
+	background-color: #bfbfbf;
+	margin: auto;
+}
+
+.row{
+	width:100%;
+	display:inline-block;
+	padding: 0;
+	border: 0;
+}
+
+.row div{
+	padding: 0;
+	border: 0;	
+	background-color: #666666;
+	display:inline-block;
+	vertical-align: top;
+}
+
+h1, button{
+	padding: 10px; 
+	margin: 10px;
+	text-align: center;
+}
